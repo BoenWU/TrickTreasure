@@ -1,2 +1,2 @@
-# TrickTreasure
-A responsible web for TrickTreasure
+# 理财宝
+## 响应式网站，兼容pc，平板，手机多分辨率设备
